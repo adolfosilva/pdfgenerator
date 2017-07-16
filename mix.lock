@@ -1,5 +1,6 @@
 %{"apex": {:hex, :apex, "1.0.0", "abf230314d35ca4c48a902f693247f190ad42fc14862b9c4f7dbb7077b21c20a", [:mix], [], "hexpm"},
   "bbmustache": {:hex, :bbmustache, "1.4.0", "cc45a071dd2b3df3a3e5f28548c8167e669a1f53437a2a2fd3b378cd38a6e725", [:rebar3], [], "hexpm"},
+  "benchfella": {:hex, :benchfella, "0.3.4", "41d2c017b361ece5225b5ba2e3b30ae53578c57c6ebc434417b4f1c2c94cf4f3", [:mix], [], "hexpm"},
   "briefly": {:hex, :briefly, "0.3.0", "16e6b76d2070ebc9cbd025fa85cf5dbaf52368c4bd896fb482b5a6b95a540c2f", [:mix], [], "hexpm"},
   "erlport": {:git, "https://github.com/hdima/erlport.git", "246b7722d62b87b48be66d9a871509a537728962", []},
   "export": {:hex, :export, "0.0.7", "f930e51fd09855ab5cfa3295acee86ab119f6cc386bba2a455bd6a45570d699f", [:mix], [], "hexpm"},

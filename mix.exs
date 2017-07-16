@@ -36,6 +36,7 @@ defmodule Pdfrender.Mixfile do
      {:pandex, "~> 0.1.0"},
      {:iona, "~> 0.2"},
      {:export, "~> 0.0.7"},
-     {:erlport, github: "hdima/erlport", manager: :make}]
+     {:erlport, github: "hdima/erlport", manager: :make},
+     {:benchfella, "~> 0.3.0"}]
   end
 end
