@@ -1,19 +1,19 @@
-# Pdfrender
+# PdfGenerator
 
 **TODO: Add description**
 
 ## Installation
 
 If [available in Hex](https://hex.pm/docs/publish), the package can be installed
-by adding `pdfrender` to your list of dependencies in `mix.exs`:
+by adding `pdfgenerator` to your list of dependencies in `mix.exs`:
 
 ```elixir
 def deps do
-  [{:pdfrender, "~> 0.1.0"}]
+  [{:pdfgenerator, "~> 0.1.0"}]
 end
 ```
 
 Documentation can be generated with [ExDoc](https://github.com/elixir-lang/ex_doc)
 and published on [HexDocs](https://hexdocs.pm). Once published, the docs can
-be found at [https://hexdocs.pm/pdfrender](https://hexdocs.pm/pdfrender).
+be found at [https://hexdocs.pm/pdfgenerator](https://hexdocs.pm/pdfgenerator).
 

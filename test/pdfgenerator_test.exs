@@ -1,6 +1,6 @@
-defmodule PdfrenderTest do
+defmodule PdfGeneratorTest do
   use ExUnit.Case
-  doctest Pdfrender
+  doctest PdfGenerator
 
   test "the truth" do
     assert 1 + 1 == 2

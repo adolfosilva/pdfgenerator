@@ -1,14 +1,2 @@
-%{"apex": {:hex, :apex, "1.0.0", "abf230314d35ca4c48a902f693247f190ad42fc14862b9c4f7dbb7077b21c20a", [:mix], [], "hexpm"},
-  "bbmustache": {:hex, :bbmustache, "1.4.0", "cc45a071dd2b3df3a3e5f28548c8167e669a1f53437a2a2fd3b378cd38a6e725", [:rebar3], [], "hexpm"},
-  "benchfella": {:hex, :benchfella, "0.3.4", "41d2c017b361ece5225b5ba2e3b30ae53578c57c6ebc434417b4f1c2c94cf4f3", [:mix], [], "hexpm"},
-  "briefly": {:hex, :briefly, "0.3.0", "16e6b76d2070ebc9cbd025fa85cf5dbaf52368c4bd896fb482b5a6b95a540c2f", [:mix], [], "hexpm"},
-  "erlport": {:git, "https://github.com/hdima/erlport.git", "246b7722d62b87b48be66d9a871509a537728962", []},
-  "export": {:hex, :export, "0.0.7", "f930e51fd09855ab5cfa3295acee86ab119f6cc386bba2a455bd6a45570d699f", [:mix], [], "hexpm"},
-  "gutenex": {:hex, :gutenex, "0.2.0", "ba5ea8a5fbc99595229c23645f488d5a67e87b567e4569d91ea1aaee394d2700", [:mix], [{:imagineer, "~> 0.1", [hex: :imagineer, repo: "hexpm", optional: false]}], "hexpm"},
-  "imagineer": {:hex, :imagineer, "0.3.0", "ce1a133d1a0c291d899e05b6f2f5407ff1ee60109454d52f4d6e6228e810222c", [:mix], [{:apex, "~>1.0.0", [hex: :apex, repo: "hexpm", optional: false]}], "hexpm"},
-  "iona": {:hex, :iona, "0.2.1", "a34907d8236853793a3da9414021005d18a9a576dd9380ac87a4dcdd8951185a", [:mix], [{:briefly, "~> 0.3", [hex: :briefly, repo: "hexpm", optional: false]}, {:porcelain, "~> 2.0", [hex: :porcelain, repo: "hexpm", optional: false]}], "hexpm"},
-  "misc_random": {:hex, :misc_random, "0.2.6", "959981142c96005731ed8b7df2440f5563a31c3a159edd5769fe28c77e3e0af7", [:mix], [], "hexpm"},
-  "mustache": {:hex, :mustache, "0.0.2", "870fbef411c47d17df06a57b8b3f69e26eb110cba0177c34e273db5d94369d9b", [:mix], [], "hexpm"},
-  "pandex": {:hex, :pandex, "0.1.0", "8508097d1c3e6d3076bb5fc462b37cb7ed20542e9589079bbf89783b025abefb", [:mix], [], "hexpm"},
-  "pdf_generator": {:hex, :pdf_generator, "0.3.5", "9cf9420a968a272195e4ab0c1dee7da4b613363c3298b5b631a9bb3846c2de07", [:mix], [{:misc_random, ">=0.2.6", [hex: :misc_random, repo: "hexpm", optional: false]}, {:porcelain, "~> 2.0", [hex: :porcelain, repo: "hexpm", optional: false]}], "hexpm"},
-  "porcelain": {:hex, :porcelain, "2.0.3", "2d77b17d1f21fed875b8c5ecba72a01533db2013bd2e5e62c6d286c029150fdc", [:mix], [], "hexpm"}}
+%{"benchfella": {:hex, :benchfella, "0.3.4", "41d2c017b361ece5225b5ba2e3b30ae53578c57c6ebc434417b4f1c2c94cf4f3", [:mix], [], "hexpm"},
+  "mustache": {:hex, :mustache, "0.0.2", "870fbef411c47d17df06a57b8b3f69e26eb110cba0177c34e273db5d94369d9b", [:mix], [], "hexpm"}}
